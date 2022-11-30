@@ -1,0 +1,15 @@
+
+description: Medidas de la pila SOFC
+source: REAL # REAL - FLITRADO - SIMULADO
+project: AGRO_SOFC
+WP: SOFC
+date: 01-12-2020
+variables:
+    input:
+      - acrm: 
+        description: 
+        type: 
+    output: 
+      - acrm: 
+        description: 
+        type: 

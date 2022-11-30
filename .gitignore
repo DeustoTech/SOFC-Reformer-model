@@ -1,0 +1,5 @@
+.DS_Store
+slprj/*
+TimeSeries/src/dependences/
+src/dependences/
+*.csv
